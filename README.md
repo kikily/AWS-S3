@@ -11,3 +11,4 @@ Connect to S3 and use the putObject function to upload the file. (refer to Uploa
 
 ### Access the file
 Use the getIterator function to get the details of files and get a file to download. (refer to Access_S3.php)
+![3](https://cloud.githubusercontent.com/assets/18390700/26490353/8198d0d4-423d-11e7-9e4b-80d12993a8e2.png)
